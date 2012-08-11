@@ -28,8 +28,8 @@
     <string name="item_count">%1$d/%2$d</string>
 
     <string name="dialog_theme_error_title">Tema fel</string>
-    <string name="dialog_missing_host_density_msg">Tyvärr, detta tema saknas tillgångar för enheten\'s skärmstorlek.</string>
-    <string name="dialog_missing_theme_package_scope_msg">Detta tema var felaktigt kompilerat och inte kan tillämpas. Vänligen rapportera denna incident till temats utvecklare.</string>
-    <string name="dialog_apply_anyway_btn">Tillämpas i alla fall</string>
+    <string name="dialog_missing_host_density_msg">Tyvärr, detta tema saknar tillgångar för enheten\'s skärmstorlek.</string>
+    <string name="dialog_missing_theme_package_scope_msg">Detta tema är felaktigt kompilerat och inte kan tillämpas. Vänligen rapportera denna incident till tema utvecklaren.</string>
+    <string name="dialog_apply_anyway_btn">Tillämpa i alla fall</string>
     <string name="dialog_bummer_btn">Bummer</string>
 </resources>
