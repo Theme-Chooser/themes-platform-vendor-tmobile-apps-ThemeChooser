@@ -27,7 +27,7 @@
     <string name="switching_to_theme">Växlar till <xliff:g id="theme">%s</xliff:g>...</string>
     <string name="item_count">%1$d/%2$d</string>
 
-    <string name="dialog_theme_error_title">Tema fel</string>
+    <string name="dialog_theme_error_title">Temafel</string>
     <string name="dialog_missing_host_density_msg">Tyvärr, detta tema saknar grafiska element för enhetens skärmstorlek.</string>
     <string name="dialog_missing_theme_package_scope_msg">Detta tema är felaktigt kompilerat och kan inte tillämpas. Vänligen rapportera denna incident till tema-utvecklaren.</string>
     <string name="dialog_apply_anyway_btn">Tillämpa ändå</string>
