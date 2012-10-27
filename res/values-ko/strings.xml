@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">테마 선택기</string>
+    <string name="app_title">테마 선택</string>
+    <string name="apply">테마 적용</string>
+
+    <string name="menu_header">테마 옵션</string>
+    <string name="menu_uninstall">제거</string>
+    <string name="theme_current">현재 테마 %s </string>
+    <string name="theme_change_dialog_title">테마 적용중...</string>
+    <string name="switching_to_theme">테마를<xliff:g id="theme">%s</xliff:g>로 바꿉니다.</string>
+    <string name="item_count">%1$d/%2$d</string>
+
+    <string name="dialog_theme_error_title">테마 에러</string>
+    <string name="dialog_missing_host_density_msg">죄송합니다., 이 테마는 기기의 해상도에 맞지 않습니다..</string>
+    <string name="dialog_missing_theme_package_scope_msg">이 테마는 정상적으로 만들어지지 않았습니다. 제작에게 문의해보세요.</string>
+    <string name="dialog_apply_anyway_btn">어쨌든 적용하기</string>
+    <string name="dialog_bummer_btn">취소</string>
+</resources>
