@@ -24,7 +24,7 @@
     <string name="menu_uninstall">제거</string>
     <string name="theme_current">%s (현재)</string>
     <string name="theme_change_dialog_title">적용중...</string>
-    <string name="switching_to_theme"><xliff:g id="theme">타메로 테마 변경%s</xliff:g>...</string>
+    <string name="switching_to_theme"><xliff:g id="theme">테마로 변경%s</xliff:g>...</string>
     <string name="item_count">%1$d/%2$d</string>
 
     <string name="dialog_theme_error_title">테마 에러</string>
