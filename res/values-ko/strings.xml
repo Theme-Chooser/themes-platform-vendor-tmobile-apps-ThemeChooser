@@ -16,20 +16,20 @@
  -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">테마엔진</string>
-    <string name="app_title">테마엔진</string>
+    <string name="app_name">테마 선택기</string>
+    <string name="app_title">테마 선택기</string>
     <string name="apply">적용</string>
 
-    <string name="menu_header">테마옵션</string>
+    <string name="menu_header">테마 옵션</string>
     <string name="menu_uninstall">제거</string>
     <string name="theme_current">%s (현재)</string>
     <string name="theme_change_dialog_title">적용중...</string>
-    <string name="switching_to_theme">Switching to <xliff:g id="theme">%s</xliff:g>...</string>
+    <string name="switching_to_theme"><xliff:g id="theme">타메로 테마 변경%s</xliff:g>...</string>
     <string name="item_count">%1$d/%2$d</string>
 
-    <string name="dialog_theme_error_title">테마에러</string>
-    <string name="dialog_missing_host_density_msg">죄송합니다,이 테마는 장치의 해상도 맞지않습니다.</string>
-    <string name="dialog_missing_theme_package_scope_msg">이 테마는 정상적으로 만들어지지 않았습니다. 제작에게 문의해보세요.</string>
-    <string name="dialog_apply_anyway_btn">어쨋든적용</string>
+    <string name="dialog_theme_error_title">테마 에러</string>
+    <string name="dialog_missing_host_density_msg">죄송합니다,이 테마는 장치의 해상도에 맞지 않습니다.</string>
+    <string name="dialog_missing_theme_package_scope_msg">이 테마는 정상적으로 만들어지지 않았습니다. 제작자 에게 문의해보세요.</string>
+    <string name="dialog_apply_anyway_btn">어쨋든 적용</string>
     <string name="dialog_bummer_btn">취소</string>
 </resources>
